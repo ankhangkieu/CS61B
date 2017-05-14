@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SeamRemover">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SeamRemover.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
